@@ -2,8 +2,6 @@
 
 📍Tokyo
 
-```I LOVE CODEX AND CLAUDE CODE```
-
 <!--
 **fuji-mak/fuji-mak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
