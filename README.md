@@ -2,7 +2,8 @@
 
 📍**Tokyo**
 
-![c2](https://github.com/user-attachments/assets/ed972360-d5c8-4677-9860-56c083e06272)
+![ルルーシュ](https://github.com/user-attachments/assets/247100c3-4392-4d95-95f6-b1d7274ec67c)
+
 
 
 <!--
