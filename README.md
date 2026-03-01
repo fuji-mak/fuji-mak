@@ -2,6 +2,9 @@
 
 📍**Tokyo**
 
+![c2](https://github.com/user-attachments/assets/ed972360-d5c8-4677-9860-56c083e06272)
+
+
 <!--
 **fuji-mak/fuji-mak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
