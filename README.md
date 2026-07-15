@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📍**Tokyo
+📍**Tokyo**
 
 - 🟢[**Capsomnia**](https://fuji-mak.github.io/Capsomnia/)：change caps lock into a physical keep-awake switch for closed-lid MacBook work.
 
