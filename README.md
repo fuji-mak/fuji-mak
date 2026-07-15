@@ -6,6 +6,8 @@
 
 ![ルルーシュ](https://github.com/user-attachments/assets/247100c3-4392-4d95-95f6-b1d7274ec67c)
 
+If Capsomnia saves you time, you can [support its continued development on GitHub Sponsors](https://github.com/sponsors/fuji-mak).
+
 
 
 <!--
