@@ -7,6 +7,7 @@
 ![ルルーシュ](https://github.com/user-attachments/assets/247100c3-4392-4d95-95f6-b1d7274ec67c)
 
 [![Support Capsomnia on GitHub Sponsors](https://img.shields.io/badge/Support%20Capsomnia-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/fuji-mak)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-ffdd00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/taketo)
 
 
 
