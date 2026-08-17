@@ -11,6 +11,7 @@
 - [**X**](https://x.com/tf_makimaki)
 - [**Zenn**](https://zenn.dev/fujimac)
 - [**note**](https://note.com/legal_shark926)
+- [**my site**](https://fuji-maki.me/)
 
 ### Support me
 
